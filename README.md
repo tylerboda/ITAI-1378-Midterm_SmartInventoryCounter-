@@ -4,6 +4,7 @@ Tyler Boda
 
 Tier 2 – Custom Object Detection
 
+
 Problem Statement:
 
 Dog waste is often left on lawns and sidewalks, creating hygiene and cleanliness issues. Manually identifying and documenting it takes time and effort. This project aims to automatically detect and count dog waste in images.
