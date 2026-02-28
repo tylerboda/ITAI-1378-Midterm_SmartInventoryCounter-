@@ -1,5 +1,7 @@
 SmartYardScan – Dog Waste Detection
+
 Tyler Boda
+
 Tier 2 – Custom Object Detection
 
 Problem Statement:
